@@ -32,7 +32,7 @@ This project leverages cross-platform synergy between Python, Excel, SQL, and Po
 
 🖼️ Dashboard Screenshot
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/kuhu01/Banking-Dashboard/blob/main/Screenshot.png)
   
 
 ## Author
