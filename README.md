@@ -17,8 +17,6 @@ This project leverages cross-platform synergy between Python, Excel, SQL, and Po
 💡 Features That Slay
 - Interactive buttons and filters in Power BI for dynamic user experience
 
-- Drill-down capabilities by account type, loan behavior, and customer type
-
 - Use of correlation analysis in Python to find patterns across financial products
 
 - Interconnected pipeline from SQL to Python to Excel to Power BI — like data magic! ✨
@@ -33,3 +31,9 @@ This project leverages cross-platform synergy between Python, Excel, SQL, and Po
 - High deposit holders are managing both savings and business ventures → High potential clients
 
 🖼️ Dashboard Screenshot
+
+![Dashboard Preview](https://github.com/kuhu01/Banking-Dashboard/blob/main/Screenshot.png)
+  
+
+## Author
+Let’s connect: [LinkedIn](https://www.linkedin.com/in/kuheli-sen123/)
