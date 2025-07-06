@@ -16,7 +16,7 @@ This project leverages cross-platform synergy between Python, Excel, SQL, and Po
 
 - Power BI: Final visualization and interactivity
 
-##💡 Features That Slay
+## 💡 Features That Slay
 
 - Interactive buttons and filters in Power BI for dynamic user experience
 
